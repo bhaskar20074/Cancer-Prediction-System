@@ -1,2 +1,1 @@
-# Cancer-Prediction-System
-Machine Learning based Cancer Prediction System using Python, Flask and Random Forest Algorithm
+# Cancer Prediction System Using Machine Learning\n
